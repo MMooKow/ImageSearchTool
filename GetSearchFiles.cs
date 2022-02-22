@@ -12,7 +12,7 @@ namespace ImageSearchTool
         /// <summary>
         /// Method that collects files to be validated as JPG or PDF.
         /// </summary>
-        /// 7<param name="path"></param>
+        /// <param name="path"></param>
         /// <param name="searchPatternExpression"></param>
         /// <param name="searchOption"></param>
         /// <returns></returns>
